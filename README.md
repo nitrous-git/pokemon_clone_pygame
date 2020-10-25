@@ -2,6 +2,7 @@
 A simple pokemon clone for battle and roaming sequence made in python with pygame. 
 <br> @ Olivier Trudel (27/12/2019)
 
+<img src="https://github.com/nitrous-git/pokemon_clone_pygame/blob/main/ezgif.com-gif-maker.gif" width="300">
 
 ############################################################################
 # Pokemon Battle Simulator v1.6x 
@@ -21,7 +22,4 @@ Update 1.xx :
 <img src="https://github.com/nitrous-git/pokemon_clone_pygame/blob/main/pokemon_clone_4.png" width="300">
 <img src="https://github.com/nitrous-git/pokemon_clone_pygame/blob/main/pokemon_clone_3.png" width="300">
 <img src="https://github.com/nitrous-git/pokemon_clone_pygame/blob/main/pokemon_clone_2.png" width="300">
-
-<img src="https://github.com/nitrous-git/pokemon_clone_pygame/blob/main/ezgif.com-gif-maker.gif" width="300">
-
 
