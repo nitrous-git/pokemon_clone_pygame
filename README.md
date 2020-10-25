@@ -1,5 +1,6 @@
 # pokemon_clone_pygame
 A simple pokemon clone for battle and roaming sequence made in python with pygame. 
+<br> This repository does not include the sprites to run the game, just the source code and .png/.gif examples
 <br> @ Olivier Trudel (27/12/2019)
 
 <img src="https://github.com/nitrous-git/pokemon_clone_pygame/blob/main/ezgif.com-gif-maker.gif" width="300">
