@@ -1,5 +1,5 @@
 # pokemon_clone_pygame
-A simple pokemon clone for battle and roaming sequence made in python with pygame. 
+A simple pokemon clone for battle and roaming sequence made in python 3.0 with pygame 1.9.6. 
 <br> This repository does not include the sprites to run the game, just the source code and .png/.gif examples
 <br> @ Olivier Trudel (27/12/2019)
 
